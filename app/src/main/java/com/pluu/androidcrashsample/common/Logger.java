@@ -2,7 +2,7 @@ package com.pluu.androidcrashsample.common;
 
 /**
  * Logger interface
- * Created by nohhs on 2015-09-02.
+ * Created by pluu on 2015-09-02.
  */
 public interface Logger {
 	boolean isLoggable(String var1, int var2);

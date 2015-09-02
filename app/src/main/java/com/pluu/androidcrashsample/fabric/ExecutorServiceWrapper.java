@@ -11,7 +11,7 @@ import java.util.concurrent.TimeUnit;
 import com.pluu.androidcrashsample.exception.Frantic;
 
 /**
- * Created by nohhs on 2015-09-02.
+ * Created by pluu on 2015-09-02.
  */
 public class ExecutorServiceWrapper {
 	private final ExecutorService executorService;

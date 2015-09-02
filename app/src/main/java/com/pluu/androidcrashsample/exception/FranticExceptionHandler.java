@@ -12,7 +12,7 @@ import com.pluu.androidcrashsample.fabric.ExecutorUtils;
 
 /**
  * Custom Uncaught Exception Handler
- * Created by nohhs on 2015-09-02.
+ * Created by pluu on 2015-09-02.
  */
 public class FranticExceptionHandler
 	implements Thread.UncaughtExceptionHandler {

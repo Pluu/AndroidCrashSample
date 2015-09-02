@@ -4,7 +4,7 @@ import android.util.Log;
 
 /**
  * Default Logger
- * Created by nohhs on 2015-09-02.
+ * Created by pluu on 2015-09-02.
  */
 public class DefaultLogger implements Logger {
 

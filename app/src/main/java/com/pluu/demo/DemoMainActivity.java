@@ -22,6 +22,10 @@ import butterknife.Bind;
 import butterknife.ButterKnife;
 import com.pluu.androidcrashsample.R;
 
+/**
+ * Demonstration Main Activity
+ * Created by pluu on 2015-09-02.
+ */
 public class DemoMainActivity extends AppCompatActivity
 	implements AdapterView.OnItemClickListener {
 

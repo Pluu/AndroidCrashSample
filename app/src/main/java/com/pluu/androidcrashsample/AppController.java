@@ -6,7 +6,7 @@ import com.pluu.androidcrashsample.exception.Frantic;
 
 /**
  * Application Controller
- * Created by nohhs on 2015-09-02.
+ * Created by pluu on 2015-09-02.
  */
 public class AppController extends Application {
 
