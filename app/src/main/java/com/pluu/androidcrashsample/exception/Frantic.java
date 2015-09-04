@@ -46,8 +46,6 @@ public class Frantic {
 		Thread.UncaughtExceptionHandler defaultHandler
 			= Thread.getDefaultUncaughtExceptionHandler();
 
-
-
 		FranticExceptionHandler handler
 			= new FranticExceptionHandler(defaultHandler);
 
